@@ -1,0 +1,14 @@
+name: "jb-website"
+navbar:
+  title: "Julia Barrow"
+left:
+  - text: "Intro"
+href: index.html
+right: 
+  - icon: fa-envelope fa-lg
+href: mailto:<julia.d.barrow@icloud.com>
+  - icon: fa-github fa-lg
+href: http://github.com/juliabarrow/
+  output:
+  html_document:
+  theme: darkly
